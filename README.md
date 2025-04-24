@@ -45,8 +45,10 @@ A C# Windows Forms application for validating user form input and parsing CV con
 المهارات: Python, Excel, Git
 الخبرة: 5 سنوات
 ```
+```
 Name: Sarah Thompson
 Email: sarah.thompson@example.com
 Phone: +12345678901
 Skills: Python, SQL, Excel
 Experience: 3 years
+```
