@@ -1,6 +1,10 @@
 # CV Validator
 A C# Windows Forms application for validating user form input and parsing CV content using Regular Expressions (Regex).
 
+## team members
+Abdalrhman Ahmed Sayed | 221101047
+Youssef Mosbah Hagag | 221101068
+
 ## Features
 
 ### 1. Manual Form Entry
